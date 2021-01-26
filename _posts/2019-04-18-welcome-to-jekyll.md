@@ -69,8 +69,7 @@ test_url( "http://eg.com/see%5C/if%5C/this%5C/works", normalize = False,
 
 ### Output code
 
-```bash
-#!/usr/bin/bash
+```output
 
 http://eg.com/hithere/something/else
   --[n=True,m=posixpath]-->
@@ -111,6 +110,7 @@ http://eg.com/see%5C/if%5C/this%5C/works
 http://eg.com/see%5C/if%5C/this%5C/works
   --[n=False,m=ntpath]-->
     [ "see", "if", "this", "works" ]
+```
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
