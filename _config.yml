@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   de los partidos por el campeonato uruguayo y certámenes
   internacionales que dispute Peñarol.
 twitter_username: username
-github_username: username
+github_username: capeniarol
 minimal_mistakes_skin: default
 search: true
 
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "No Oficial"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Lo que buscaba en la vida ya lo encontré. Suporter de Peñarol."
+  bio    : "Noticias de Peñarol y videos Peñarol por Uruguayo, Libertadores y Sudamericana"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -68,10 +68,13 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
+    - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/"
 
@@ -80,12 +83,15 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/"  
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/capeniarol/squadmirasol"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/"
 
 defaults:
   # _posts
