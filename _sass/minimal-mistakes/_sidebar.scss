@@ -6,6 +6,19 @@
    Default
    ========================================================================== */
 
+@mixin fontFace($pt_sansregular, /assets/fonts) {
+  @font-face {
+    font: {
+      family: $pt_sansregular;
+      weight: normal;
+      style: normal;
+    }
+    src: url('/assets/fonts/pt_sans_regular-webfont.woff') format('woff');
+  }
+}
+
+@include fontFace(pt_sansregular, '/assets/fonts');
+
 .sidebar {
   @include clearfix();
   // @include breakpoint(max-width $large) {
@@ -56,7 +69,7 @@
 
   p,
   li {
-    font-family: $calisto; /* $sans-serif; */
+    font-family: $pt_sansregular; /* $sans-serif; */
     font-size: $type-size-6;
     line-height: 1.5;
   }
