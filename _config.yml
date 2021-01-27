@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "No Oficial"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/logo-nooficial.png"
   bio    : "Noticias de Peñarol y videos Peñarol por Uruguayo, Libertadores y Sudamericana"
   links:
     - label: "Website"
