@@ -60,10 +60,7 @@ plugins:
 author:
   name   : "No Oficial"
   avatar : "/assets/images/logo-nooficial.png"
-  bio    : 
-  Las Nuevas del Club Atlético Peñarol. Así como también videos
-  de los partidos por el campeonato uruguayo y certámenes
-  internacionales que dispute Peñarol.
+  bio    : "Las Nuevas del Club Atlético Peñarol. Así como también videos de los partidos por el campeonato uruguayo y certámenes internacionales que dispute Peñarol."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
