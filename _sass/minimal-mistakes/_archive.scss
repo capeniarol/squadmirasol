@@ -2,6 +2,23 @@
    ARCHIVE
    ========================================================================== */
 
+$font-path_oswald: "../fonts/" !default;
+$font-file_oswald: "oswald-regular-webfont" !default;
+$font-family_oswald: "oswald_regularregular" !default;
+
+@mixin font-face($font-family_oswald, $font-path) {
+  @font-face {
+    font: {
+      family: $font-family_oswald;
+      weight: normal;
+      style: normal;
+    }
+    src: url( $font-path_oswald + $font-file_oswald + '.woff') format('woff');
+  }
+}
+
+@include font-face($font-family_oswald, '../fonts/');
+
 .archive {
   margin-top: 1em;
   margin-bottom: 2em;
@@ -45,7 +62,7 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
+  font-family: $font-family_oswald; /* $sans-serif-narrow; */
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
