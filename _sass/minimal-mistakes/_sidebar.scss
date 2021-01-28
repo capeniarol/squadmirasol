@@ -6,7 +6,7 @@
    Default
    ========================================================================== */
 
-$font-path: "../../fonts/" !default;
+$font-path: "/fonts/" !default;
 $font-file: "pt_sans_regular-webfont" !default;
 $font-family: "pt_sansregular" !default;
 
@@ -21,7 +21,7 @@ $font-family: "pt_sansregular" !default;
   }
 }
 
-@include font-face($font-family, '../../fonts/');
+@include font-face($font-family, '/fonts/');
 
 .sidebar {
   @include clearfix();
