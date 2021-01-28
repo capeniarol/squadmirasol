@@ -90,7 +90,7 @@ $font-family_lucidaconsole: "lucida_consoleregular" !default;
 
   p,
   li {
-    font-family: $font-family; /* $sans-serif; */
+    font-family: $font-family_lucidaconsole; /* $font-family; <!-- 333 --> $sans-serif; */
     font-size: $type-size-6;
     line-height: 1.5;
   }
