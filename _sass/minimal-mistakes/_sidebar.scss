@@ -23,6 +23,23 @@ $font-family: "pt_sansregular" !default;
 
 @include font-face($font-family, '../fonts/');
 
+$font-path_lucidaconsole: "../fonts/" !default;
+$font-file_lucidaconsole: "lucida_console-webfont" !default;
+$font-family_lucidaconsole: "lucida_consoleregular" !default;
+
+@mixin font-face($font-family_lucidaconsole, $font-path_lucidaconsole) {
+  @font-face {
+    font: {
+      family: $font-family_lucidaconsole;
+      weight: normal;
+      style: normal;
+    }
+    src: url( $font-path_lucidaconsole + $font-file_lucidaconsole + '.woff') format('woff');
+  }
+}
+
+@include font-face($font-family_lucidaconsole, '../fonts/');
+
 .sidebar {
   @include clearfix();
   // @include breakpoint(max-width $large) {
