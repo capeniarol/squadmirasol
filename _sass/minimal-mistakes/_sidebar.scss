@@ -10,7 +10,7 @@ $font-path: "../fonts/" !default;
 $font-file: "pt_sans_regular-webfont" !default;
 $font-family: "pt_sansregular" !default;
 
-@mixin fontFace($font-family, $font-path) {
+@mixin font-face($font-family, $font-path) {
   @font-face {
     font: {
       family: $font-family;
