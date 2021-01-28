@@ -2,6 +2,23 @@
    FOOTER
    ========================================================================== */
 
+$font-path_lucidaconsole: "../fonts/" !default;
+$font-file_lucidaconsole: "lucida_console-webfont" !default;
+$font-family_lucidaconsole: "lucida_consoleregular" !default;
+
+@mixin font-face($font-family_lucidaconsole, $font-path_lucidaconsole) {
+  @font-face {
+    font: {
+      family: $font-family_lucidaconsole;
+      weight: normal;
+      style: normal;
+    }
+    src: url( $font-path_lucidaconsole + $font-file_lucidaconsole + '.woff') format('woff');
+  }
+}
+
+@include font-face($font-family_lucidaconsole, '../fonts/');
+
 .page__footer {
   @include clearfix;
   float: left;
@@ -47,7 +64,7 @@
 }
 
 .page__footer-copyright {
-  font-family: $global-font-family;
+  font-family: $font-family_lucidaconsole; /* $global-font-family; */
   font-size: $type-size-7;
 }
 
