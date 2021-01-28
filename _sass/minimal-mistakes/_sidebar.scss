@@ -17,7 +17,7 @@ $font-family: "pt_sansregular" !default;
       weight: normal;
       style: normal;
     }
-    url( $font-path + $font-file + '.woff') format('woff');
+    src: url( $font-path + $font-file + '.woff') format('woff');
   }
 }
 
