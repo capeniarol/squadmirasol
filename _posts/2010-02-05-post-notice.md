@@ -53,6 +53,17 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
   {{ notice-2 | markdownify }}
 </div>
 
+{% capture notice-3 %}
+#### Clausura 2021 (fecha2): Peñarol 1:2 Defensor Sporting
+
+* No decepcionó, fue un partido con un gran ritmo y ...
+* En el balance Defensor Sporting fué un justo ganador
+{% endcapture %}
+
+<div class="notice">
+  {{ notice-3 | markdownify }}
+</div>
+
 Or you could skip the capture and stick with straight HTML.
 
 ```html
