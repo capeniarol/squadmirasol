@@ -23,6 +23,22 @@ $font-family: "pt_sansregular" !default;
 
 @include font-face($font-family, '../fonts/');
 
+$font-file_oswald: "oswald-regular-webfont" !default;
+$font-family_oswald: "oswald_regularregular" !default;
+
+@mixin font-face($font-family_oswald, $font-path) {
+  @font-face {
+    font: {
+      family: $font-family_oswald;
+      weight: normal;
+      style: normal;
+    }
+    src: url( $font-path + $font-file_oswald + '.woff') format('woff');
+  }
+}
+
+@include font-face($font-family_oswald, '../fonts/');
+
 .sidebar {
   @include clearfix();
   // @include breakpoint(max-width $large) {
