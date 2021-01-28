@@ -21,6 +21,23 @@ body {
   }
 }
 
+$font-path_oswald: "../fonts/" !default;
+$font-file_oswald: "oswald-regular-webfont" !default;
+$font-family_oswald: "oswald_regularregular" !default;
+
+@mixin font-face($font-family_oswald, $font-path) {
+  @font-face {
+    font: {
+      family: $font-family_oswald;
+      weight: normal;
+      style: normal;
+    }
+    src: url( $font-path_oswald + $font-file_oswald + '.woff') format('woff');
+  }
+}
+
+@include font-face($font-family_oswald, '../fonts/');
+
 h1,
 h2,
 h3,
