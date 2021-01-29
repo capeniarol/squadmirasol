@@ -19,6 +19,24 @@ $font-family_lucidaconsole: "lucida_consoleregular" !default;
 
 @include font-face($font-family_lucidaconsole, '../fonts/');
 
+$font-path_gothiamrounded: "../fonts/" !default;
+$font-file_gothiamrounded: "GothamRounded-Medium" !default;
+$font-family_gothiamrounded: "GothamRounded-Medium" !default;
+
+@mixin font-face($font-family_gothiamrounded, $font-path_gothiamrounded) {
+  @font-face {
+    font: {
+      family: $font-family_gothiamrounded;
+      weight: normal;
+      style: normal;
+    }
+    src: url( $font-path_gothiamrounded + $font-file_gothiamrounded + '.woff') format('woff');
+  }
+}
+
+@include font-face($font-family_gothiamrounded, '../fonts/');
+
+
 .page__footer {
   @include clearfix;
   float: left;
@@ -64,7 +82,7 @@ $font-family_lucidaconsole: "lucida_consoleregular" !default;
 }
 
 .page__footer-copyright {
-  font-family: $font-family_lucidaconsole; /* $global-font-family; */
+  font-family: $font-family_gothiamrounded; /* $font-family_lucidaconsole; <!--- 333 ---> $global-font-family; */
   font-size: $type-size-7;
 }
 
@@ -79,7 +97,7 @@ $font-family_lucidaconsole: "lucida_consoleregular" !default;
     display: inline-block;
     padding-top: 5px;
     padding-bottom: 5px;
-    font-family: $sans-serif-narrow;
+    font-family: $font-family_gothiamrounded; /* $sans-serif-narrow; */
     font-size: $type-size-6;
     text-transform: uppercase;
   }
