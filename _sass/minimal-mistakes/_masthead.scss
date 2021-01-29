@@ -2,6 +2,23 @@
    MASTHEAD
    ========================================================================== */
 
+$font-path_gothiamrounded: "../fonts/" !default;
+$font-file_gothiamrounded: "GothamRounded-Medium" !default;
+$font-family_gothiamrounded: "GothamRounded-Medium" !default;
+
+@mixin font-face($font-family_gothiamrounded, $font-path_gothiamrounded) {
+  @font-face {
+    font: {
+      family: $font-family_gothiamrounded;
+      weight: normal;
+      style: normal;
+    }
+    src: url( $font-path_gothiamrounded + $font-file_gothiamrounded + '.woff') format('woff');
+  }
+}
+
+@include font-face($font-family_gothiamrounded, '../fonts/');
+
 .masthead {
   position: relative;
   border-bottom: 1px solid $border-color;
@@ -23,7 +40,7 @@
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    font-family: $sans-serif-narrow;
+    font-family: $font-family_gothiamrounded; /* $sans-serif-narrow; */
 
     @include breakpoint($x-large) {
       max-width: $max-width;
