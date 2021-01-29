@@ -54,7 +54,7 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 </div>
 
 {% capture notice-3 %}
-#### Clausura 2021: Peñarol 1 : 2 Defensor Sporting
+#### Clausura 2021 Peñarol 1 - 2 Defensor Sporting
 
 * No decepcionó, fue un partido con un gran ritmo y ...
 * En el balance Defensor Sporting fué un justo ganador
