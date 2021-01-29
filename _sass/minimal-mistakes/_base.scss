@@ -42,11 +42,28 @@ $font-family_gothiamrounded: "GothamRounded-Medium" !default;
 
 @include font-face($font-family_gothiamrounded, '../fonts/');
 
+$font-path_gothamroundedbook: "../fonts/" !default;
+$font-file_gothamroundedbook: "GothamRounded-Book" !default;
+$font-family_gothamroundedbook: "GothamRounded-Book" !default;
+
+@mixin font-face($font-family_gothamroundedbook, $font-path_gothamroundedbook) {
+  @font-face {
+    font: {
+      family: $font-family_gothamroundedbook;
+      weight: normal;
+      style: normal;
+    }
+    src: url( $font-path_gothamroundedbook + $font-file_gothamroundedbook + '.woff') format('woff');
+  }
+}
+
+@include font-face($font-family_gothamroundedbook, '../fonts/');
+
 body {
   margin: 0;
   padding: 0;
   color: $text-color;
-  font-family: $font-family_gothiamrounded; /* $font-family_varelarounded; <!--- 333 ---> $global-font-family; */
+  font-family: $font-family_gothamroundedbook; /* $font-family_gothiamrounded; <!--- 333 ---> $font-family_varelarounded; <!--- 333 ---> $global-font-family; */
   line-height: 1.5;
 
   &.overflow--hidden {
