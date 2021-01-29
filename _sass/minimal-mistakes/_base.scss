@@ -8,11 +8,28 @@ html {
   min-height: 100%;
 }
 
+$font-path_varelarounded: "../fonts/" !default;
+$font-file_varelarounded: "varelaround-regular-webfont" !default;
+$font-family_varelarounded: "varela_roundregular" !default;
+
+@mixin font-face($font-family_varelarounded, $font-path_varelarounded) {
+  @font-face {
+    font: {
+      family: $font-family_varelarounded;
+      weight: normal;
+      style: normal;
+    }
+    src: url( $font-path_varelarounded + $font-file_varelarounded + '.woff') format('woff');
+  }
+}
+
+@include font-face($font-family_varelarounded, '../fonts/');
+
 body {
   margin: 0;
   padding: 0;
   color: $text-color;
-  font-family: $global-font-family;
+  font-family: $font-family_varelarounded; /* $global-font-family; */
   line-height: 1.5;
 
   &.overflow--hidden {
