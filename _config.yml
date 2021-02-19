@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CA PEÑAROL
+title: CAP No Oficial
 email: capeniarol.cf@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Las Nuevas del Club Atlético Peñarol. Así como también videos
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "No Oficial"
+  name   : "CeiBitA"
   avatar : "/assets/images/vegas.png"
-  bio    : "Las Nuevas del Club Atlético Peñarol. Así como también videos de los partidos por el campeonato uruguayo y certámenes internacionales que dispute Peñarol."
+  bio    : "Supporter del Club Atlético Peñarol"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
