@@ -21,6 +21,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Las Nuevas del Club Atlético Peñarol. Así como también videos
   de los partidos por el campeonato uruguayo y certámenes
   internacionales que dispute Peñarol.
+comments:
+  provider: "facebook"
+  facebook:
+    appid: # optional
+    num_posts: 10 # 5 (default)
+    colorscheme: # "light" (default), "dark"
 twitter_username: username
 github_username: capeniarol
 minimal_mistakes_skin: default
