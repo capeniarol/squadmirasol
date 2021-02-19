@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "No Oficial"
-  avatar : "/assets/images/logo-nooficial.png"
+  avatar : "/assets/images/vegas.png"
   bio    : "Las Nuevas del Club Atlético Peñarol. Así como también videos de los partidos por el campeonato uruguayo y certámenes internacionales que dispute Peñarol."
   links:
     - label: "Website"
@@ -76,7 +76,7 @@ author:
       url: "https://github.com/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/"
+      url: "https://youtube.com/c/NoOficial"
 
 footer:
   links:
@@ -91,7 +91,7 @@ footer:
       url: "https://github.com/capeniarol/squadmirasol"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/"
+      url: "https://youtube.com/c/NoOficial"
 
 defaults:
   # _posts
