@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "CeiBitA"
+  name   : "Ceibita"
   avatar : "/assets/images/vegas.png"
-  bio    : "Supporter del Club Atlético Peñarol"
+  bio    : "Supporter de Peñarol"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
