@@ -3,7 +3,6 @@ title: "SHL 2021: HV71 vs Frölunda Live"
 date: 2021-03-09T19:27:00-01:00
 categories:
   - hockey
-  - live
 tags:
   - SHL 2021
   - HV71 vs Frölunda
