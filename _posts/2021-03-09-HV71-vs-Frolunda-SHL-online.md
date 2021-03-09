@@ -10,6 +10,12 @@ tags:
 
 💯
 <html>
+  <video id="player1" width="700" height="480" style="max-width:100%;" preload="none">
+    <source src="https://e8.dotice.me/plyvivo/He0BkFxDdMao2UG6YRNC/chunklist.m3u8" type="video/hls">
+  </video>
+  
+  <br>
+  
   <iframe allow="encrypted-media" width="700" height="480" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" allowfullscreen="yes" src="https://e8.dotice.me/plyvivo/He0BkFxDdMao2UG6YRNC/chunklist.m3u8"></iframe>
 </html>
 
