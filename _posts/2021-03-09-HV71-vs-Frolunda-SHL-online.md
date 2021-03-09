@@ -10,6 +10,6 @@ tags:
 
 💯
 <html>
-  <iframe allow="encrypted-media" width="700" height="480" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" allowfullscreen="yes"  src="https://e8.dotice.me/plyvivo/He0BkFxDdMao2UG6YRNC/chunklist.m3u8"></iframe>
+  <iframe allow="encrypted-media" width="700" height="480" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" allowfullscreen="yes" src="https://e8.dotice.me/plyvivo/He0BkFxDdMao2UG6YRNC/chunklist.m3u8"></iframe>
 </html>
 
