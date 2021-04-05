@@ -68,7 +68,7 @@ plugins:
 author:
   name   : "Ceibita"
   avatar : "/assets/images/vegas.png"
-  bio    : "Supporter de Peñarol"
+  bio    : "Suporter de Peñarol"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
