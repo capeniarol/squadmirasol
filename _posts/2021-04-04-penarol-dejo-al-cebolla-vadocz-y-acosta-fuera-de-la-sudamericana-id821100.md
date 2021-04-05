@@ -1,6 +1,5 @@
 ===
 title: "Peñarol dejó al «Cebolla», Vadócz y Acosta fuera de la Sudamericana"
-description: "No fueron incluidos en una nómina de 45 jugadores habilitados para participar de esta copa."
 date: 2021-04-04T00:00:00+2:00
 ===
 
