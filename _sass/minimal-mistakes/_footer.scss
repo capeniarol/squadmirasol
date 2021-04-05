@@ -36,6 +36,23 @@ $font-family_gothiamrounded: "GothamRounded-Medium" !default;
 
 @include font-face($font-family_gothiamrounded, '../fonts/');
 
+$font-path_oswald: "../fonts/" !default;
+$font-file_oswald: "oswald-regular-webfont" !default;
+$font-family_oswald: "oswald_regularregular" !default;
+
+@mixin font-face($font-family_oswald, $font-path) {
+  @font-face {
+    font: {
+      family: $font-family_oswald;
+      weight: normal;
+      style: normal;
+    }
+    src: url( $font-path_oswald + $font-file_oswald + '.woff') format('woff');
+  }
+}
+
+@include font-face($font-family_oswald, '../fonts/');
+
 
 .page__footer {
   @include clearfix;
@@ -82,7 +99,7 @@ $font-family_gothiamrounded: "GothamRounded-Medium" !default;
 }
 
 .page__footer-copyright {
-  font-family: $font-family_gothiamrounded; /* $font-family_lucidaconsole; <!--- 333 ---> $global-font-family; */
+  font-family: $font-family_oswald; /* $font-family_lucidaconsole; <!--- 333 ---> $global-font-family; */
   font-size: $type-size-7;
 }
 
@@ -97,7 +114,7 @@ $font-family_gothiamrounded: "GothamRounded-Medium" !default;
     display: inline-block;
     padding-top: 5px;
     padding-bottom: 5px;
-    font-family: $font-family_gothiamrounded; /* $sans-serif-narrow; */
+    font-family: $font-family_oswald; /* $sans-serif-narrow; */
     font-size: $type-size-6;
     text-transform: uppercase;
   }
