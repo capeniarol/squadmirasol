@@ -1,10 +1,6 @@
-===
-title: "Peñarol dejó al «Cebolla», Vadócz y Acosta fuera de la Sudamericana"
-date: 2021-04-04T00:00:00+2:00
-===
+Peñarol dejó al «Cebolla», Vadócz y Acosta fuera de la Sudamericana
 
-
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/04/Lista.jpg">
+<center><img src="https://www.republica.com.uy/wp-content/uploads/2021/04/Lista.jpg"></center>
 
 
 Peñarol dio a conocer la lista de 45 jugadores que estarán a la orden de Mauricio Larriera para la primera fase de la Copa Sudamericana. Entre todos esos futbolistas no está Cristian Rodríguez. Lo que marca que el ciclo del Cebolla en el club está acabado.
