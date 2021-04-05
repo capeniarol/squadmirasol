@@ -1,4 +1,4 @@
-Peñarol dejó al «Cebolla», Vadócz y Acosta fuera de la Sudamericana
+## Peñarol dejó al «Cebolla», Vadócz y Acosta fuera de la Sudamericana
 
 <center><img src="https://www.republica.com.uy/wp-content/uploads/2021/04/Lista.jpg"></center>
 
