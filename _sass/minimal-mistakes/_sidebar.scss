@@ -40,6 +40,23 @@ $font-family_lucidaconsole: "lucida_consoleregular" !default;
 
 @include font-face($font-family_lucidaconsole, '../fonts/');
 
+$font-path_oswald: "../fonts/" !default;
+$font-file_oswald: "oswald-regular-webfont" !default;
+$font-family_oswald: "oswald_regularregular" !default;
+
+@mixin font-face($font-family_oswald, $font-path) {
+  @font-face {
+    font: {
+      family: $font-family_oswald;
+      weight: normal;
+      style: normal;
+    }
+    src: url( $font-path_oswald + $font-file_oswald + '.woff') format('woff');
+  }
+}
+
+@include font-face($font-family_oswald, '../fonts/');
+
 .sidebar {
   @include clearfix();
   // @include breakpoint(max-width $large) {
@@ -90,7 +107,7 @@ $font-family_lucidaconsole: "lucida_consoleregular" !default;
 
   p,
   li {
-    font-family: $font-family_lucidaconsole; /* $font-family; <!-- 333 --> $sans-serif; */
+    font-family: $font-family_oswald; /* $font-family; <!-- 333 --> $sans-serif; */
     font-size: $type-size-6;
     line-height: 1.5;
   }
