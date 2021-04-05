@@ -1,6 +1,11 @@
-## Peñarol dejó al «Cebolla», Vadócz y Acosta fuera de la Sudamericana
+---
+title: "Peñarol dejó al «Cebolla», Vadócz y Acosta fuera de la Sudamericana"
+excerpt: "No fueron incluidos en una nómina de 45 jugadores habilitados para participar de esta copa."
+date: 2021-04-04T00:00:00+2:00
+---
 
-<center><img src="https://camo.githubusercontent.com/dd5bb9124fa65e58ad18223918808009657a8e069484565e4be2756c7b7e030d/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f4c697374612e6a7067"></center>
+
+<img src="https://camo.githubusercontent.com/dd5bb9124fa65e58ad18223918808009657a8e069484565e4be2756c7b7e030d/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f4c697374612e6a7067">
 
 
 Peñarol dio a conocer la lista de 45 jugadores que estarán a la orden de Mauricio Larriera para la primera fase de la Copa Sudamericana. Entre todos esos futbolistas no está Cristian Rodríguez. Lo que marca que el ciclo del Cebolla en el club está acabado.
@@ -16,4 +21,5 @@ Sin embargo, si Peñarol logra vencer en esta llave a Cerro Largo, se clasificar
 
 
 El partido de ida entre el Arachán y el Carbonero se llevará a cabo el martes seis de abril, a partir de las 21:30 horas, en el Parque Viera. Se jugará en ese recinto porque puede tener VAR. La vuelta será siete días más tarde en el Campeón del Siglo a la misma hora.
+
 
