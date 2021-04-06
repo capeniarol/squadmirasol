@@ -5,7 +5,7 @@ date: 2021-04-05T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/01/Larriera.jpg">
+<img src="https://camo.githubusercontent.com/b679c2f339410318679d136a770b1ba0c7c0c5dab2ab148925534da4f9b1619a/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30312f4c617272696572612e6a7067">
 
 
 Mañana a las 21.30 horas, Peñarol debutará en la Copa Sudamericana. Su rival será Cerro Largo, que hará de local en el Parque Viera. Mauricio Larriera sabe que los torneos continentales son siempre desafiantes, pero esto no le impide soñar con una campaña memorable.
