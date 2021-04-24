@@ -5,7 +5,7 @@ date: 2021-04-23T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/04/Canario.jpg">
+<img src="https://camo.githubusercontent.com/cec0ccbcf17d8756244f3c1376c246d6c061161f92777e004f71c983fcdb7c5a/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f43616e6172696f2e6a7067">
 
 
 Peñarol oficializó esta tarde la renovación del contrato de Agustín Álvarez Martínez. El “Canario”, que a fuerza de goles y talento logró transformarse en el “9” indiscutido del club, extendió su vínculo hasta 2024. Además, la nueva relación incluye una cláusula de recisión récord: quien quiera llevárselo sin negociar con los mirasoles deberá pagar 20 millones de dólares.
