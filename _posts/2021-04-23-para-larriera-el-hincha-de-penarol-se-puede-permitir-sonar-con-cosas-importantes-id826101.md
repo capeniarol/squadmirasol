@@ -5,7 +5,7 @@ date: 2021-04-23T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/04/WhatsApp-Image-2021-04-23-at-08.37.57.jpeg">
+<img src="https://camo.githubusercontent.com/28219e29a83a7c717949f661e4c7aaed5e8836bee80617a8e5b2d71e5a0c5288/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f57686174734170702d496d6167652d323032312d30342d32332d61742d30382e33372e35372e6a706567">
 
 
 El director técnico de Peñarol, Mauricio Larriera, en rueda de prensa luego del cotejo en el que su equipo superó ampliamente a Sport Huancayo por la primera fecha de la Fase de Grupos de la Copa Sudamericana, estimó que «somos conscientes que no logramos los objetivos que nos plantemos el campeonato pasado. Ahora es una copa internacional. Ojalá que se entusiasme el hincha. Esperemos que el simpatizante se permita soñar con conseguir cosas importantes».
