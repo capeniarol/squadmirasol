@@ -5,7 +5,7 @@ date: 2021-04-25T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/04/Datos-3.jpg">
+<img src="https://camo.githubusercontent.com/c94c17400f58eb6310bc2b538f5790c0bf86608c6f7cb1eae3fc18a175d4cd82/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f4461746f732d332e6a7067">
 
 
 En forma novedosa, a través de un video de una duración total de 22 minutos, Ignacio Ruglio llevó a cabo una presentación pública de la situación económica del club presentando gráficas en las que se detallan ingresos y egresos.
