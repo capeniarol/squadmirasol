@@ -5,7 +5,7 @@ date: 2021-04-26T00:00:00+2:00
 ---
 
 
-<img src="https://media.cdnp.elobservador.com.uy/042021/1619143438342/000_98K6GT.jpg?&amp;cw=600&amp;ch=365">
+<img src="https://camo.githubusercontent.com/eea933d417482eb11b226d7cd47534fc058b0525592041d19bc31cdd123df0ae/68747470733a2f2f6d656469612e63646e702e656c6f627365727661646f722e636f6d2e75792f3034323032312f313631393134333433383334322f3030305f39384b3647542e6a70673f2663773d3630302663683d333635">
 
 
 Se trata de un rival directo en este nuevo formato que tiene el certamen, ya que de los cuatro clubes que toman parte de la llave, solo accederá a la siguiente fase el que gane la misma.
