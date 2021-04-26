@@ -5,7 +5,7 @@ date: 2021-04-26T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/04/Penarol1.jpg">
+<img src="https://camo.githubusercontent.com/777ce7ff77eb2ac48a58e755c0c9d0a7d74c3e61980ca126e2eb5004aef56f43/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f50656e61726f6c312e6a7067">
 
 
 Tras un debut en el que los carboneros golearon 5-1 de locales ante el peruano Huancayo y en el que los brasileños empataron como visitantes contra el River Plate de asunción, este partido que se le viene a Peñarol es como una final, ya que se enfrentan los dos equipos que aspiran a quedarse con el primer puesto de este grupo que, recordamos, es el único cupo que hay para clasificara los octavos de final del torneo.
