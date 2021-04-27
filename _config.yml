@@ -65,8 +65,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ceibita"
-  avatar : "/assets/images/m.svg"
+  name   : "MARCiO"
+  avatar : "/assets/images/m.png"
   bio    : "Suporter de Peñarol"
   links:
     - label: "Website"
