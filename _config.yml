@@ -67,7 +67,7 @@ plugins:
 author:
   name   : "MARCiO"
   avatar : "/assets/images/m.png"
-  bio    : "Suporter de Peñarol"
+  bio    : "Suporters de Peñarol"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
