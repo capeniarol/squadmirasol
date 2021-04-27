@@ -5,7 +5,7 @@ date: 2021-04-27T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/04/Nandez.jpg">
+<img src="https://camo.githubusercontent.com/a68493ec87c42fb19b1aefc0b2c7c1b1ff3ecd1ba676ee3f1982b7ad8b034c42/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f4e616e64657a2e6a7067">
 
 
 Los tribunales de la Asociación Uruguaya de Fútbol fallaron a favor de Peñarol en un reclamo de € 500.000 realizado por el club de origen de Nahitan Nández, Ituzaingó de Punta del Este.
