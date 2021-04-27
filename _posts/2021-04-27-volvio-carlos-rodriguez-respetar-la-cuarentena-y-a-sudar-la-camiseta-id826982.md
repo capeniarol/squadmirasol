@@ -5,7 +5,7 @@ date: 2021-04-27T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/04/Carlos-1.jpg">
+<img src="https://camo.githubusercontent.com/13891090d2f45a2847e2ee097c3cec9e74950f34efcbb1ebb8bf0cccb83bb01d/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f4361726c6f732d312e6a7067">
 
 
 Peñarol sumó a sus filas al zaguero Carlos Rodríguez, quien vuelve al club luego de su exitoso pasaje en la temporada 2018.
