@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: aurinegro.tk
 subtitle: "El más grande rastreador de noticias de Peñarol en el mundo"
-logo: "/assets/images/logo-nooficial.png"
+logo: "/assets/images/aurinegro_logo.png"
 email: capeniarol.cf@gmail.com
 description: "El más grande rastreador de noticias de Peñarol en el mundo"
 repository: "capeniarol/squadmirasol"
