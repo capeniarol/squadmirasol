@@ -5,7 +5,7 @@ date: 2021-04-29T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/04/Vacuna-9.jpg">
+<img src="https://camo.githubusercontent.com/19677209d874a2ce8c9c885eaac38ca816ce232106090eb7f8692afdd33e9979/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f566163756e612d392e6a7067">
 
 
 Por estas horas están llegando a nuestro país las 50.000 dosis de la vacuna Sinovac contra el coronavirus, una donación de China a la Conmebol tras una negociación que llevó a cabo el gobierno uruguayo.
