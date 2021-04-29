@@ -5,7 +5,7 @@ date: 2021-04-29T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/04/Penarol-10.jpg">
+<img src="https://camo.githubusercontent.com/4b968c43a286f65e93033a92a979100cb8a3178cde07887a7252b7a960c472e9/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f50656e61726f6c2d31302e6a7067">
 
 
 Peñarol visitará a Corinthians este jueves a las 19:15 en su segundo partido por la Copa Sudamericana en un duelo que puede resultar clave para definir al clasificado del grupo E.
