@@ -5,7 +5,7 @@ date: 2021-04-29T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/04/Viatri-Penarol-Flamengo.jpg">
+<img src="https://camo.githubusercontent.com/4d40919431d1e4341ec76da18394e2d25e5245260adfee30468bf7ea739fcc03/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f5669617472692d50656e61726f6c2d466c616d656e676f2e6a7067">
 
 
 Curiosa es la estadística de Peñarol y sus partidos como visitantes por copas en los últimos 10 años.
