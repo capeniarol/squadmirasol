@@ -5,7 +5,7 @@ date: 2021-04-30T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/04/Penarol-Corintians.jpg">
+<img src="https://camo.githubusercontent.com/c482ab7e6691b982ee224d1ccba3bfa1ce29452b840fe961b48e62c90ffcc36c/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f50656e61726f6c2d436f72696e7469616e732e6a7067">
 
 
 Triunfazo de Peñarol en Brasil por 2-0 ante el Corinthians, en una noche impecable del equipo que dirige Mauricio Larriera.
