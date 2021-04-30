@@ -5,7 +5,7 @@ date: 2021-04-30T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/04/Penarol-12.jpg">
+<img src="https://camo.githubusercontent.com/dd506840b92f71d285538247cfda1dd78d8a68abf2b7c5bc1626f58872e921a4/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f50656e61726f6c2d31322e6a7067">
 
 
 Peñarol ganó por tercera vez en Brasil en los últimos 10 años. Del 2011 al 2021, el carbonero jugó 42 encuentros en el exterior y sus números son muy malos ya que solamente ganó en 7, empató en 8 y perdió los 27 restantes. Esos números implican que en sus 42 visitas del último decenio sólo pudo quedarse con el 21% de los puntos en disputa (26 de 123).
