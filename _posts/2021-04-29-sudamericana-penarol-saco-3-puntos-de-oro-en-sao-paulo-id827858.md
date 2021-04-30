@@ -5,7 +5,7 @@ date: 2021-04-29T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/04/penarol-11.jpg">
+<img src="https://camo.githubusercontent.com/317cdf63bbab86f0db9fceda9e9c14db5d5dc4b7c4a7f0ee904cc25e38a006f1/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f70656e61726f6c2d31312e6a7067">
 
 
 Peñarol dio el golpe en la mesa en el Grupo E de la Copa Conmebol Sudamericana al vencer como visitante al Corinthians por  marcador de 0-2.
