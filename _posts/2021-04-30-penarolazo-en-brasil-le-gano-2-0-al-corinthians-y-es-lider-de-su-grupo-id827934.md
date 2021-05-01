@@ -2,6 +2,7 @@
 title: "Peñarolazo en Brasil: le ganó 2-0 al Corinthians y es líder de su grupo"
 excerpt: "Con goles de Giovanni González y Terans el carbonero sacó 3 puntos que lo dejan como líder con 5 puntos de ventaja sobre los brasileños."
 date: 2021-04-30T00:00:00+2:00
+image: "https://camo.githubusercontent.com/c482ab7e6691b982ee224d1ccba3bfa1ce29452b840fe961b48e62c90ffcc36c/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f50656e61726f6c2d436f72696e7469616e732e6a7067"
 ---
 
 
