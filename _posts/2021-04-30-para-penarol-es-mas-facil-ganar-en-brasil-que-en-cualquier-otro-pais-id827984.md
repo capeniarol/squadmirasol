@@ -2,6 +2,7 @@
 title: "Para Peñarol es más fácil ganar en Brasil que en cualquier otro país"
 excerpt: "Insólita estadística presentan los carboneros en su último decenio."
 date: 2021-04-30T00:00:00+2:00
+image: "https://camo.githubusercontent.com/dd506840b92f71d285538247cfda1dd78d8a68abf2b7c5bc1626f58872e921a4/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f50656e61726f6c2d31322e6a7067"
 ---
 
 
