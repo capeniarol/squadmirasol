@@ -2,6 +2,7 @@
 title: "Peñarol y el triunfo de la convicción: el ojo de Larriera y la espalda de Bengoechea"
 excerpt: "El nuevo Peñarol de Larriera, que construyó en la adversidad del Clausura (blindado por el director deportivo y el presidente Ruglio), empieza a regar los campos con su mejor versión de fútbol y de carácter"
 date: 2021-04-30T00:00:00+2:00
+image: "https://media.cdnp.elobservador.com.uy/042021/1619742232876/000_9922H6.jpg?&amp;cw=600&amp;ch=365"
 ---
 
 
