@@ -2,6 +2,7 @@
 title: "Gargano volvió a ser figura en Peñarol: He retomado un poco el nivel"
 excerpt: "El volante de Peñarol dijo tras el triunfo ante Corinthians: Me faltaba tener continuidad y ponerme bien físicamente; Larriera destacó el factor anímico del grupo y la individualidad de Kevin Dawson"
 date: 2021-04-30T00:00:00+2:00
+image: "https://media.cdnp.elobservador.com.uy/042021/1619742421484/f801a7cf9ebc529c1e993075cdf0b40931faaab9.jpg?&amp;cw=600&amp;ch=365"
 ---
 
 
