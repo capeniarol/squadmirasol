@@ -33,8 +33,9 @@ layout: default
               <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y " }}</time>&emsp;
             {% endif %}
           </p> -->
-          {% include page__date.html %}
-          
+          <p class="page__meta">
+            {% include page__date.html %}
+          </p>
           <!-- dvhart: date read-time meta line -->
           <!-- <p class="page__meta">
             {% if post.last_modified_at %}
