@@ -3,15 +3,16 @@ title: "¿Nacional llevará a Peñarol al Parque Central en el clásico del 26 d
 excerpt: "El pasado 19 de abril el presidente tricolor dijo públicamente que cuando le toque ser local ante el aurinegro «seguramente sea en el Gran Parque Central»."
 tags:
    - Peñarol
+   - clásico Apertura 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Clasico.jpg"
+image: "https://camo.githubusercontent.com/8d6ae258439c8559915fc7687cfa7b7f6df1204748ea9a7f8d2dee5440f0fabc/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f436c617369636f2e6a7067"
 classes: wide
 date: 2021-05-04T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Clasico.jpg">
+<img src="https://camo.githubusercontent.com/8d6ae258439c8559915fc7687cfa7b7f6df1204748ea9a7f8d2dee5440f0fabc/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f436c617369636f2e6a7067">
 
 
 Sorteado el fixture del Campeonato Uruguayo 2021, lo más importante que surgió fue que en el clásico que cayó en la 9ª fecha del Torneo Apertura el locatario es el Club Nacional de Football, por lo que queda planteada la interrogante respecto a si en esta ocasión los tricolores volverán a fijar el Estadio Centenario o decidirán recibir a Peñarol en su Gran Parque Central.
