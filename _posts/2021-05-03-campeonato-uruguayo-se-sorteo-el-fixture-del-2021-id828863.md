@@ -3,15 +3,16 @@ title: "Campeonato Uruguayo: se sorteó el fixture del 2021"
 excerpt: "Nacional debutará en casa ante Cerro Largo y Peñarol lo hará también en su feudo ante Plaza Colonia. El Clásico se jugará en la fecha 9."
 tags:
    - Peñarol
+   - fixture Campeonato Uruguayo 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2020/07/CENTENARIO-1930-5.jpg"
+image: "https://camo.githubusercontent.com/897f031d7a690963728c28a5837a6cdd49299f6f05be47dce5df71e4b06a3797/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032302f30372f43454e54454e4152494f2d313933302d352e6a7067"
 classes: wide
 date: 2021-05-03T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2020/07/CENTENARIO-1930-5.jpg">
+<img src="https://camo.githubusercontent.com/897f031d7a690963728c28a5837a6cdd49299f6f05be47dce5df71e4b06a3797/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032302f30372f43454e54454e4152494f2d313933302d352e6a7067">
 
 
 En la noche de este lunes se realizó el sorteo del fixture para el Campeonato Uruguayo del 2021. En este año,  Peñarol debutará como local ante Plaza Colonia, mientras que Nacional también iniciará en casa cuando enfrente a Cerro Largo.
