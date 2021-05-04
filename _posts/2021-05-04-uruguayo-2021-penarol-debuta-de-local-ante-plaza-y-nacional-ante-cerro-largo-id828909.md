@@ -5,13 +5,13 @@ tags:
    - Peñarol
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Fixture-1.jpg"
+image: "https://camo.githubusercontent.com/e32e1ccc146b3ed479b0ebd53621cea97a0071e3bc60909e801ee89a80086232/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f466978747572652d312e6a7067"
 classes: wide
 date: 2021-05-04T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Fixture-1.jpg">
+<img src="https://camo.githubusercontent.com/e32e1ccc146b3ed479b0ebd53621cea97a0071e3bc60909e801ee89a80086232/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f466978747572652d312e6a7067">
 
 
 En la noche del lunes la Mesa Ejecutiva de Primera División realizó el sorteo del fixture del 118º Campeonato Uruguayo 2021 que este año llevará el nombre de «Dr. Tabaré Vázquez».
