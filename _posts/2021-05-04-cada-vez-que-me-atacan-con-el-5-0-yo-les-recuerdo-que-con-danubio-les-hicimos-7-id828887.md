@@ -3,15 +3,16 @@ title: "«Cada vez que me atacan con el 5-0 yo les recuerdo que con Danubio les 
 excerpt: "Gerardo Pelusso confiesa cómo les retruca a los hinchas de Peñarol cuando le recuerdan el clásico que perdió 5-0."
 tags:
    - Peñarol
+   - Gerardo Pelusso
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Pelusso.jpg"
+image: "https://camo.githubusercontent.com/7f6db67831c3aec6a98d507279b46be87b7ef9096e2f0e57ff00a07277f4a479/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656c7573736f2e6a7067"
 classes: wide
 date: 2021-05-04T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Pelusso.jpg">
+<img src="https://camo.githubusercontent.com/7f6db67831c3aec6a98d507279b46be87b7ef9096e2f0e57ff00a07277f4a479/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656c7573736f2e6a7067">
 
 
 Gerardo Pelusso es un entrenador que ha marcado hitos históricos en diferentes clubes.
