@@ -3,15 +3,17 @@ title: "Diego Forlán confiesa los consejos que le manda por whatsapp a Valverde
 excerpt: "Fueron compañeros en Peñarol y siguen en contacto, uno en Uruguay y el otro en España."
 tags:
    - Peñarol
+   - Federico Valverde
+   - Diego Forlán
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Diego.jpg"
+image: "https://camo.githubusercontent.com/cc6022677fafa3cf5fe2891b48565f91a6bab59e64bb71cf095480f898efee27/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f446965676f2e6a7067"
 classes: wide
 date: 2021-05-04T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Diego.jpg">
+<img src="https://camo.githubusercontent.com/cc6022677fafa3cf5fe2891b48565f91a6bab59e64bb71cf095480f898efee27/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f446965676f2e6a7067">
 
 
 «Hablábamos y todavía nos seguimos hablando» cuenta diego Forlán al referirse a Federico Valverde.
