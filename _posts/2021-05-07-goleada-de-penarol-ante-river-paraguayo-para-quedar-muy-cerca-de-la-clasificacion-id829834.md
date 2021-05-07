@@ -3,15 +3,16 @@ title: "Goleada de Peñarol ante River paraguayo para quedar muy cerca de la cla
 excerpt: "El equipo de Larriera es líder absoluto de su grupo con 9 puntos contra 4 de Corinthians y River y 0 de Huancayo."
 tags:
    - Peñarol
+   - Sudamericana 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-1.jpg"
+image: "https://camo.githubusercontent.com/3153b2f68f908d5953132a0650aca9b0d9b04a4dc1ebcf05f22fd6f55f7d4d4d/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d312e6a7067"
 classes: wide
 date: 2021-05-07T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-1.jpg">
+<img src="https://camo.githubusercontent.com/3153b2f68f908d5953132a0650aca9b0d9b04a4dc1ebcf05f22fd6f55f7d4d4d/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d312e6a7067">
 
 
 Peñarol concretó una goleade 3-0 sobre River Plate de Asunción que le permite, no solamente seguir como líder del grupo en Copa Sudamericana, sino además extender su ventaja respecto al segundo de la tabla que justamente era el equipo guaraní.
