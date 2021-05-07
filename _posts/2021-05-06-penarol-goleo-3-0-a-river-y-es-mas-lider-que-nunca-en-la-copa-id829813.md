@@ -3,15 +3,16 @@ title: "COPA SUDAMERICANAPeñarol goleó 3-0 a River y es más líder que nunca 
 excerpt: "«Nacho» Alonso explicó la suspensión del fútbol: «Se nos pidió un esfuerzo y un gesto de acompañamiento al resto de la sociedad»."
 tags:
    - Peñarol
+   - Sudamericana 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-copia.jpg"
+image: "https://camo.githubusercontent.com/473a09b1d2f44da1060d77ed95bc2b3adff73fd2045fe5ba8a90362e5c01597b/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d636f7069612e6a7067"
 classes: wide
 date: 2021-05-06T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-copia.jpg">
+<img src="https://camo.githubusercontent.com/473a09b1d2f44da1060d77ed95bc2b3adff73fd2045fe5ba8a90362e5c01597b/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d636f7069612e6a7067">
 
 
 Peñarol completó 9 puntos de 9 posibles en sus primeros tres partidos en Copa Sudamericana y es más líder que nunca ya que amplió a 5 su diferencia respecto al segundo.
