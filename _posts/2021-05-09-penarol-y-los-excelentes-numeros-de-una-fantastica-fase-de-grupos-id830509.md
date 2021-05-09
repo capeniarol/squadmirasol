@@ -3,15 +3,16 @@ title: "Peñarol y los excelentes números de una fantástica fase de grupos"
 excerpt: "El carbonero no ganaba los 9 puntos iniciales de una copa desde 1982 y en esta Sudamericana sólo 3 equipos lo han hecho."
 tags:
    - Peñarol
+   - Copa Sudamericana 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-2.jpg"
+image: "https://camo.githubusercontent.com/98540ac925f3fc1959375cf6b705fda6d6136440625b9e0fd686bf27c9b7a68a/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d322e6a7067"
 classes: wide
 date: 2021-05-09T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-2.jpg">
+<img src="https://camo.githubusercontent.com/98540ac925f3fc1959375cf6b705fda6d6136440625b9e0fd686bf27c9b7a68a/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d322e6a7067">
 
 
 Peñarol viene realizando una campaña en la Copa Sudamericana, al extremo de haber ganado los tres partidos que jugó en su grupo, algo que no se daba con el carbonero desde la Libertadores de 1982, cuando debutó con victoria 3-0 sobre Defensor y luego venció en el Centenario al Sao Paulo 1-0 y al Gremio también 1-0.
