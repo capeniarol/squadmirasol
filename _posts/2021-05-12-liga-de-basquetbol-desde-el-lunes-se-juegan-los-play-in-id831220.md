@@ -3,15 +3,16 @@ title: "Liga de Básquetbol: desde el lunes se juegan los «Play-In»"
 excerpt: "Malvín-Hebraica, Aguada-Capitol, Defensor-Trouville y Peñarol-Goes por un cupo en los cuartos de final."
 tags:
    - Peñarol
+   - Liga Uruguaya de Básquetbol
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Liga-1.jpg"
+image: "https://camo.githubusercontent.com/36072c0cae0237e746af6c6544f0db099c2466233247e1b14c1e8199f98996b8/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f4c6967612d312e6a7067"
 classes: wide
 date: 2021-05-12T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Liga-1.jpg">
+<img src="https://camo.githubusercontent.com/36072c0cae0237e746af6c6544f0db099c2466233247e1b14c1e8199f98996b8/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f4c6967612d312e6a7067">
 
 
 La Federación Uruguaya de Básquetbol fijó días y horarios para los partidos de los «Play-Inn» que se desarrollarán desde el lunes y hasta el jueves inclusive.
