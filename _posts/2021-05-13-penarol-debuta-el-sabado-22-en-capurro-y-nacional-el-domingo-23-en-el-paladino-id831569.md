@@ -3,15 +3,16 @@ title: "Peñarol debuta el sábado 22 en Capurro y Nacional el domingo 23 en el 
 excerpt: "La Mesa Ejecutiva de Primera División adelantó detalles de la 2ª fecha del Torneo Apertura, que se disputará entre el sábado 22 y el lunes 24 de mayo. Peñarol-Fénix en el Parque Capurro será el sábado 22 a las 15 horas."
 tags:
    - Peñarol
+   - Apertura 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Clasico-2.jpg"
+image: "https://camo.githubusercontent.com/ef37a30c40eaae96e3260e5edf0f1ee13e4e4e83a8ea1274886196888ed7a236/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f436c617369636f2d322e6a7067"
 classes: wide
 date: 2021-05-13T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Clasico-2.jpg">
+<img src="https://camo.githubusercontent.com/ef37a30c40eaae96e3260e5edf0f1ee13e4e4e83a8ea1274886196888ed7a236/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f436c617369636f2d322e6a7067">
 
 
 Nacional visitará a Progreso el domingo 23 a las 15 horas en el Paladino.
