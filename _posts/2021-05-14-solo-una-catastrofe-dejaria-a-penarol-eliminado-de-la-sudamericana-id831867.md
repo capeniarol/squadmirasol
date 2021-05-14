@@ -1,5 +1,5 @@
 ---
-title: "CALCULADORA A FAVORSólo una catástrofe dejaría a Peñarol eliminado de la Sudamericana"
+title: "CALCULADORA A FAVOR Sólo una catástrofe dejaría a Peñarol eliminado de la Sudamericana"
 excerpt: "Uno de los clubes más importantes y populares del Uruguay recibe un nuevo aniversario de aquel día de 1899 en que todo comenzó."
 tags:
    - Peñarol
