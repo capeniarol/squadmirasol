@@ -3,15 +3,16 @@ title: "Peñarol arrollador; goleó 4-0 al Corinthians y puso un pie en los octa
 excerpt: "Es líder con 5 puntos de ventaja sobre River paraguayo a falta de dos fechas."
 tags:
    - Peñarol
+   - Sudamericana 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-4.jpg"
+image: "https://camo.githubusercontent.com/920b602ed2ffc4f5736410cb288393f62864e10234f95ba71853695665d075a1/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d342e6a7067"
 classes: wide
 date: 2021-05-14T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-4.jpg">
+<img src="https://camo.githubusercontent.com/920b602ed2ffc4f5736410cb288393f62864e10234f95ba71853695665d075a1/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d342e6a7067">
 
 
 Este arrollador Peñarol 2021 volvió a sumar un triunfo en Copa sudamericana y esta vez con una espectacular goleada sobre el brasileño Corinthians, a quien vapuleó con un indiscutible 4-0, sumando así su cuarta goleada en seis juegos por este torneo.
