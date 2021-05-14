@@ -1,17 +1,17 @@
 ---
-title: "BUENA RACHA CARBONERAPeñarol ganó 7 de sus últimos 8 partidos de copa en el Campeón del siglo"
+title: "BUENA RACHA CARBONERA Peñarol ganó 7 de sus últimos 8 partidos de copa en el Campeón del siglo"
 excerpt: "Uno de los clubes más importantes y populares del Uruguay recibe un nuevo aniversario de aquel día de 1899 en que todo comenzó."
 tags:
    - Peñarol
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2020/08/Campeon-del-Siglo-pintado.jpg"
+image: "https://camo.githubusercontent.com/24876183b507d3b80a656d2b746c8f0417c7dfc43d7e6dd562a1b380eb5ed267/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032302f30382f43616d70656f6e2d64656c2d5369676c6f2d70696e7461646f2e6a7067"
 classes: wide
 date: 2021-05-14T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2020/08/Campeon-del-Siglo-pintado.jpg">
+<img src="https://camo.githubusercontent.com/24876183b507d3b80a656d2b746c8f0417c7dfc43d7e6dd562a1b380eb5ed267/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032302f30382f43616d70656f6e2d64656c2d5369676c6f2d70696e7461646f2e6a7067">
 
 
 Con la goleada 4-0 a Corinthians, Peñarol llegó a 8 partidos de copa sin perder en el Campeón del Siglo, período en el cual ganó 7 encuentros y empató uno.
