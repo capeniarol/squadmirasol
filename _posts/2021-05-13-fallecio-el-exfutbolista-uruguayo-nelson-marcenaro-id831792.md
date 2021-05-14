@@ -5,13 +5,13 @@ tags:
    - Peñarol
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/E1Trpm0WQAcsMI3.jpg"
+image: "https://camo.githubusercontent.com/e5f67b5bb0f84b94c34420b26c8a7d0cc44517ed194458352650a4b49ba8f085/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f45315472706d3057514163734d49332e6a7067"
 classes: wide
 date: 2021-05-13T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/E1Trpm0WQAcsMI3.jpg">
+<img src="https://camo.githubusercontent.com/e5f67b5bb0f84b94c34420b26c8a7d0cc44517ed194458352650a4b49ba8f085/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f45315472706d3057514163734d49332e6a7067">
 
 
 El barrio de La Teja, el fútbol uruguayo y la sociedad toda, está de luto ante el fallecimiento del Nelson Marcenaro a los 68 años de edad. El exfutbolista supo vestir los colores de Peñarol,Progreso y la Selección Uruguaya.
