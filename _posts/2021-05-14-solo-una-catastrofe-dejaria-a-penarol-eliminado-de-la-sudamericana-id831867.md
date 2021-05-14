@@ -3,15 +3,16 @@ title: "CALCULADORA A FAVORSólo una catástrofe dejaría a Peñarol eliminado d
 excerpt: "Uno de los clubes más importantes y populares del Uruguay recibe un nuevo aniversario de aquel día de 1899 en que todo comenzó."
 tags:
    - Peñarol
+   - Sudamericana 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/04/Penarol-8.jpg"
+image: "https://camo.githubusercontent.com/d3d6f668650498d4b0b9fa696ff7e91f29c2dc9b35c741eb8d8696f0e5d29b04/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f50656e61726f6c2d382e6a7067"
 classes: wide
 date: 2021-05-14T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/04/Penarol-8.jpg">
+<img src="https://camo.githubusercontent.com/d3d6f668650498d4b0b9fa696ff7e91f29c2dc9b35c741eb8d8696f0e5d29b04/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30342f50656e61726f6c2d382e6a7067">
 
 
 Líder absoluto con 12 puntos en 4 fechas, Peñarol quedó a un pasito de clasificarsea los octavos de final de la Copa Sudamericana.
