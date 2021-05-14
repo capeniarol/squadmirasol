@@ -3,15 +3,16 @@ title: "Día, hora y árbitros de la 1ª fecha del Apertura"
 excerpt: "Este fin de semana comenzará el Torneo Apertura 2021 con la disputa de tres partidos el día sábado y otros tres el domingo, habiendo quedado postergados los encuentros de Peñarol-Plaza Colonia y Nacional-Cerro Largo ya que los dos grandes pidieron postergar debido a sus compromisos por la Copa Libertadores y la Copa Sudamericana."
 tags:
    - Peñarol
+   - Apertura 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Pelota.jpg"
+image: "https://camo.githubusercontent.com/9a379636afe1b908843771afbaac1133927088c6066ffa1f0f7ceba4e2b1ad0f/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656c6f74612e6a7067"
 classes: wide
 date: 2021-05-14T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Pelota.jpg">
+<img src="https://camo.githubusercontent.com/9a379636afe1b908843771afbaac1133927088c6066ffa1f0f7ceba4e2b1ad0f/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656c6f74612e6a7067">
 
 
 A continuación, el repaso de los jueces que impartirán justicia en la primera fecha del certamen.
