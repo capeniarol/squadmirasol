@@ -44,6 +44,7 @@ $font-family_oswald: "oswald_regularregular" !default;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
+  background-color: #f5ec98;
 
   &__inner-wrap {
     @include clearfix;
