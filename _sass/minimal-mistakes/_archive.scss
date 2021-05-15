@@ -63,11 +63,14 @@ $font-family_oswald: "oswald_regularregular" !default;
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0.05em;
   font-family: $font-family_oswald; /* $sans-serif-narrow; */
-  line-height: initial;
+  line-height: 1.3px;
   overflow: hidden;
   text-overflow: ellipsis;
+  padding: 10px;
+  margin-top: 0;
+  color: #000;
 
   a[rel="permalink"]::before {
     content: '';
