@@ -37,8 +37,10 @@ $font-family_oswald: "oswald_regularregular" !default;
 
 .archive__item {
   position: relative;
-  background-color: #dfcf33;
+  background-color: #f5ec98;
   margin: 5px 5px 5px 5px;
+  border: solid 4px;
+  color: #000;
 
   a {
     position: relative;
