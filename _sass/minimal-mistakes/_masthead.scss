@@ -102,6 +102,7 @@ $font-family_oswald: "oswald_regularregular" !default;
 
   .site-nav {
     margin-left: 0;
+    background: #f5ec98;
 
     @include breakpoint($small) {
       float: right;
