@@ -3,15 +3,6 @@ title: "Peñarol perdió 3-0 con Delta Te Quiero y complicó su continuidad en l
 excerpt: "Peñarol debutó con derrota 1-0 ante Corinthians y este lunes fue goleado por Delta Te Quiero de Venezuela; Nacional se la juega con Alianza Platanera"
 tags:
    - Peñarol
-   - Nacional
-   - Copa Libertadores de Futsal
-   - Florida
-   - 2021
-categories:
-   - Noticias
-image: "https://media.cdnp.elobservador.com.uy/052021/1621284064081/peñarol-futsal.jpg?&cw=1170"
-classes: wide
-date: 2021-05-17T00:00:00+2:00
 ---
 
 
