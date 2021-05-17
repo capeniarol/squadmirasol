@@ -11,7 +11,6 @@ categories:
    - Noticias
 image: "https://media.cdnp.elobservador.com.uy/052021/1621284064081/peñarol-futsal.jpg?&cw=1170"
 classes: wide
-date: 2021-05-17T00:00:00+2:00
 ---
 
 
