@@ -6,7 +6,6 @@ tags:
    - Nacional
    - Copa Libertadores de Futsal
    - Florida
-   - 2021
 categories:
    - Noticias
 ---
