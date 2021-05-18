@@ -3,15 +3,16 @@ title: "Libertadores de Futsal: derrotas uruguayas"
 excerpt: "La Copa Libertadores de futsal se puso en marcha en el gimnasio 10 de Julio de la ciudad de Florida, donde los uruguayos Peñarol y Nacional no pudieron hacer valer la localía y terminaron cayendo, aunque con sensaciones bien distintas."
 tags:
    - Peñarol
+   - Libertadores Futsal
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Futsal.jpg"
+image: "https://camo.githubusercontent.com/1d2965871f1700322ddf852020ea596e36fed097eb3793eebc3f34708b991c76/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f46757473616c2e6a7067"
 classes: wide
 date: 2021-05-18T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Futsal.jpg">
+<img src="https://camo.githubusercontent.com/1d2965871f1700322ddf852020ea596e36fed097eb3793eebc3f34708b991c76/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f46757473616c2e6a7067">
 
 
 Peñarol perdió 1-0 frente a Corinthians por el grupo B, que además registró victoria 4-1 de Delta Te Quiero. Los carboneros fueron competitivos ante uno de los candidatos al título, pero un tempranero gol de Tatinho sentenció el pleito.
