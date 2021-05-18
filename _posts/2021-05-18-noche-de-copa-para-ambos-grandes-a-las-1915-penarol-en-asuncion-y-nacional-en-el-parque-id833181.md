@@ -5,13 +5,13 @@ tags:
    - Peñarol
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/01/Clasico-1.jpg"
+image: "https://camo.githubusercontent.com/cf8529bd91ce1ad66aa64b429a101f2893d69672f575ca8869f154852334e6ef/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30312f436c617369636f2d312e6a7067"
 classes: wide
 date: 2021-05-18T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/01/Clasico-1.jpg">
+<img src="https://camo.githubusercontent.com/cf8529bd91ce1ad66aa64b429a101f2893d69672f575ca8869f154852334e6ef/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30312f436c617369636f2d312e6a7067">
 
 
 Atípica situación se dará esta noche cuando los dos grandes del fútbol uruguayo estén jugando en forma simultánea por las dos copas continentales.
