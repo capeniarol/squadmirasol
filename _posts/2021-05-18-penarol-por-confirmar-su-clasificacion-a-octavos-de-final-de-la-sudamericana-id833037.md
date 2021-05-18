@@ -3,15 +3,16 @@ title: "Peñarol por confirmar su clasificación a octavos de final de la Sudame
 excerpt: "A las 19:15 horas enfrenta en Asunción al River Plate paraguayo."
 tags:
    - Peñarol
+   - Sudamericana 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-5.jpg"
+image: "https://camo.githubusercontent.com/2cb67c574d7e102bfbc9e15acf2c4ca799ae632bafbc4b413dd3fa36e218f2b9/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d352e6a7067"
 classes: wide
 date: 2021-05-18T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-5.jpg">
+<img src="https://camo.githubusercontent.com/2cb67c574d7e102bfbc9e15acf2c4ca799ae632bafbc4b413dd3fa36e218f2b9/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d352e6a7067">
 
 
 Peñarol enfrenta a River Plate de Asunción este martes en el Estadio Defensores del Chaco, a las 19:15 horas, por la 5ª fecha del grupo E de la Copa Sudamericana.
