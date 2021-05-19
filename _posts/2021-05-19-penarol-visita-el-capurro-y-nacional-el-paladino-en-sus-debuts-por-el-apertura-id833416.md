@@ -3,15 +3,16 @@ title: "Peñarol visita el Capurro y Nacional el Paladino en sus debuts por el A
 excerpt: "En caso de que la AUF no haga lugar al reclamo de Nacional de suspender su partido."
 tags:
    - Peñarol
+   - Apertura 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-7.jpg"
+image: "https://camo.githubusercontent.com/d6109dfe5608ab5d434d3175ec23468e3c1d93381dad2dd7b64b34ca996d056d/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d372e6a7067"
 classes: wide
 date: 2021-05-19T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-7.jpg">
+<img src="https://camo.githubusercontent.com/d6109dfe5608ab5d434d3175ec23468e3c1d93381dad2dd7b64b34ca996d056d/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d372e6a7067">
 
 
 La Mesa Ejecutiva ya fijó los detalles de la 2ª fecha del Torneo apertura, incluyendo el partido de Progreso-Nacional, pese a que la delegación tricolor ha pedido la postergación de su encuentro debido a los siete casos de Covid que tiene en su plantel.
