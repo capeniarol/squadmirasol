@@ -3,15 +3,16 @@ title: "Peñarol perdió en la última del partido y deberá esperar para clasif
 excerpt: "Peñarol lo empataba hasta el 90+4′ y se clasificaba a los octavos de final de la Copa Sudamericana, pero un error defensivo los obliga a buscar el resultado en Perú."
 tags:
    - Peñarol
+   - Sudamericana 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-6.jpg"
+image: "https://camo.githubusercontent.com/6541b1913d579ec2da037013821548685644d90f26fea5145f16f204aab2418f/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d362e6a7067"
 classes: wide
 date: 2021-05-18T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-6.jpg">
+<img src="https://camo.githubusercontent.com/6541b1913d579ec2da037013821548685644d90f26fea5145f16f204aab2418f/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d362e6a7067">
 
 
 River Plate anotó gol en el último minuto de partidos y doblegó a Peñarol por marcador de 2-1 en el encuentro que se disputó en el marco de la fecha cinco de la fase de grupos de la Copa Sudamericana.
