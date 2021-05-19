@@ -3,15 +3,16 @@ title: "Tabárez preseleccionó a 5 de Nacional, 4 de Peñarol, 2 de Torque y 2 
 excerpt: "Para la Copa América, Conmebol permite armar una lista inicial con 50 futbolistas."
 tags:
    - Peñarol
+   - Selección Uruguaya
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Seleccion.jpg"
+image: "https://camo.githubusercontent.com/6029917aa936f0e1ca54beb455cd4c2959d091fc8774eba34809246c1f590382/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f53656c656363696f6e2e6a7067"
 classes: wide
 date: 2021-05-19T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Seleccion.jpg">
+<img src="https://camo.githubusercontent.com/6029917aa936f0e1ca54beb455cd4c2959d091fc8774eba34809246c1f590382/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f53656c656363696f6e2e6a7067">
 
 
 La Copa América comenzará en pocas semanas en Argentina y Colombia, luego de que los días 3 y 8 de junio se dispute una doble fecha de la Eliminatoria.
