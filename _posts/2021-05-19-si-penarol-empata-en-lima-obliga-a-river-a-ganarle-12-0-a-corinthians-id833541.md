@@ -3,15 +3,16 @@ title: "Si Peñarol empata en Lima, obliga a River a ganarle 12-0 a Corinthians"
 excerpt: "Pese a la derrota en Asunción, el Carbonero está prácticamente clasificado a los octavos de final de la Sudamericana."
 tags:
    - Peñarol
+   - Sudamericana 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-Alvarez-Martinez.jpg"
+image: "https://camo.githubusercontent.com/ec30de977dc8cba48c038fda0bb0a1047d0ddf996be2589168338ffe81151871/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d416c766172657a2d4d617274696e657a2e6a7067"
 classes: wide
 date: 2021-05-19T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-Alvarez-Martinez.jpg">
+<img src="https://camo.githubusercontent.com/ec30de977dc8cba48c038fda0bb0a1047d0ddf996be2589168338ffe81151871/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d416c766172657a2d4d617274696e657a2e6a7067">
 
 
 La derrota que sufrió Peñarol en Asunción, con un gol en el minuto 93, lo único que hizo fue postergar el trámite de su clasificación para la última fecha.
