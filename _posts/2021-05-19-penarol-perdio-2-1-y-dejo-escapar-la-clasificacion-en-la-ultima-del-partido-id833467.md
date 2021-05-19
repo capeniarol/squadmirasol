@@ -3,15 +3,16 @@ title: "Peñarol perdió 2-1 y dejó escapar la clasificación en la última del
 excerpt: "Un gol de River al 90+4’ obliga a Peñarol a buscar el pase en Perú ante Huancayo."
 tags:
    - Peñarol
+   - Sudamericana 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol1-1.jpg"
+image: "https://camo.githubusercontent.com/43351d72eaa4f6a127ac2e9487d7792679e2e41076eb3be16f8d5400e34ebbb7/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c312d312e6a7067"
 classes: wide
 date: 2021-05-19T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol1-1.jpg">
+<img src="https://camo.githubusercontent.com/43351d72eaa4f6a127ac2e9487d7792679e2e41076eb3be16f8d5400e34ebbb7/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c312d312e6a7067">
 
 
 En el marco de la fecha 5 de la fase de grupos de la Copa Sudamericana, River Plate de Paraguay doblegó a Peñarol por marcador de dos goles por uno en el Defensores del Chaco en Asunción, lo que obliga a Peñarol a buscar su clasificación en la última fecha cuando visite a Huancayo.
