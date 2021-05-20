@@ -3,15 +3,16 @@ title: "Terans podría irse de Peñarol ya que Paranaense realizó una oferta po
 excerpt: "El futbolista está a préstamo en los carboneros ya que su ficha pertenece al Atlético Mineiro."
 tags:
    - Peñarol
+   - Terans
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-8.jpg"
+image: "https://camo.githubusercontent.com/300f97cc289b93579032ed31865600ce951d2c1e4252b378ab315ca3bce7416d/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d382e6a7067"
 classes: wide
 date: 2021-05-20T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-8.jpg">
+<img src="https://camo.githubusercontent.com/300f97cc289b93579032ed31865600ce951d2c1e4252b378ab315ca3bce7416d/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d382e6a7067">
 
 
 Atlético Mineiro, dueño de la ficha de David Terans, podría transferir al jugador al Athletico Paranaense que realizó una oferta por el futbolista que actualmente está a préstamo en Peñarol.
