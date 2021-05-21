@@ -3,15 +3,18 @@ title: "Peñarol pierde a Schiappacasse y Terans para el resto de la temporada"
 excerpt: "Además el zaguero Carlos Rodríguez dio positivo de Covid."
 tags:
    - Peñarol
+   - Schiappacasse
+   - Terans
+   - bajas
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-9.jpg"
+image: "https://camo.githubusercontent.com/78d5c769e478e0c6f054315df2f11d816f89d44bc0ccc0ccdf860f161a55b4a9/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d392e6a7067"
 classes: wide
 date: 2021-05-21T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-9.jpg">
+<img src="https://camo.githubusercontent.com/78d5c769e478e0c6f054315df2f11d816f89d44bc0ccc0ccdf860f161a55b4a9/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d392e6a7067">
 
 
 Dos de los delanteros de más renombre que tenía Peñarol en su plantel ya no estarán para el resto de la temporada. Es que Nicolás Schiappacasse quedará fuera de las canchas por el resto del año ya que sufrió rotura de ligamentos cruzados y David Terans se marchará al Paranaense de Brasil.
