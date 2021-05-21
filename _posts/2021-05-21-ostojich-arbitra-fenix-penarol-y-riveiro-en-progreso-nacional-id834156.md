@@ -3,15 +3,16 @@ title: "Ostojich arbitra Fénix-Peñarol y Riveiro en Progreso-Nacional"
 excerpt: "Quedaron designados los árbitros para la 2ª fecha del Torneo Apertura, oportunidad en la cual se producirá el debut de Nacional y Peñarol que habían postergado sus partidos en la fecha inicial."
 tags:
    - Peñarol
+   - Apertura 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Ostojich.jpg"
+image: "https://camo.githubusercontent.com/751c729f0944222f9a04f7e4822d6e68e8330f7093e5bb4bc7d63d6fbb9e2976/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f4f73746f6a6963682e6a7067"
 classes: wide
 date: 2021-05-21T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Ostojich.jpg">
+<img src="https://camo.githubusercontent.com/751c729f0944222f9a04f7e4822d6e68e8330f7093e5bb4bc7d63d6fbb9e2976/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f4f73746f6a6963682e6a7067">
 
 
 A continuación los detalles de la etapa:
