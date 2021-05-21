@@ -3,15 +3,16 @@ title: "Gavazzo y Cordero: se reunió la directiva de Peñarol y hay consenso pa
 excerpt: "Se evalúa además proceder de la misma forma con quienes hayan cometido asesinatos, femicidios y violaciones, para lo cual se realizará un análisis cuidadoso en la parte jurídica."
 tags:
    - Peñarol
+   - dictadura militar
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2020/09/Peñarol-2.jpg"
+image: "https://camo.githubusercontent.com/8a6ecce836d7ef98f4d331cf865b4b41540397da2488ec3fabc8634631176fc6/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032302f30392f5065c3b161726f6c2d322e6a7067"
 classes: wide
 date: 2021-05-21T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2020/09/Peñarol-2.jpg">
+<img src="https://camo.githubusercontent.com/8a6ecce836d7ef98f4d331cf865b4b41540397da2488ec3fabc8634631176fc6/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032302f30392f5065c3b161726f6c2d322e6a7067">
 
 
 Luego de que se anunciara hace ya varios días de la intención de expulsar del padrón social de Peñarol a José Gavazzo y Manuel Cordero, dos de los principales protagonistas de crímenes de lesa humanidad durante la dictadura militar en nuestro país, finalmente en la noche del jueves se reunió la directiva carbonera y trató el tema.
