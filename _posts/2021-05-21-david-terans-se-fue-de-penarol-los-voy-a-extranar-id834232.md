@@ -3,15 +3,17 @@ title: "David Terans se fue de Peñarol: «Los voy a extrañar»"
 excerpt: "Mauricio Larriera perdió a una de sus armas ofensivas más importantes, ya que Terans continuará su carrera en el fútbol brasilero."
 tags:
    - Peñarol
+   - Terans
+   - despedida
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/David-Terans.jpg"
+image: "https://camo.githubusercontent.com/3bb4ac43478cbff354cb64bb72c25ba9225089e3fd4731d491e22f6866f55adf/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f44617669642d546572616e732e6a7067"
 classes: wide
 date: 2021-05-21T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/David-Terans.jpg">
+<img src="https://camo.githubusercontent.com/3bb4ac43478cbff354cb64bb72c25ba9225089e3fd4731d491e22f6866f55adf/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f44617669642d546572616e732e6a7067">
 
 
 Anoche se confirmó la noticia que fue un rumor durante todo el día: David Terans ya no es futbolista de Peñarol. El delantero, que la temporada pasada fue el máximo artillero del equipo,  seguirá su carrera en Athletico Paranaense. Es que a ese club brasilero lo vendió el club que es propietario de su ficha, Atlético Mineiro.
