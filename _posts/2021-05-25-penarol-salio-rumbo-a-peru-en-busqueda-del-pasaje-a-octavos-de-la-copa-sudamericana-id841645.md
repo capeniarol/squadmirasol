@@ -3,15 +3,16 @@ title: "Peñarol salió rumbo a Perú en búsqueda del pasaje a octavos de la co
 excerpt: "El empate o el triunfo le darán la clasificación a los dirigidos por Mauricio Larriera; por certámenes internacionales en modalidad fase de grupos, Peñarol no pasa a la siguiente instancia desde 2011 cuando el entrenador era Diego Aguirre. "
 tags:
    - Peñarol
+   - Sudamericana 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-11.jpg"
+image: "https://camo.githubusercontent.com/4b58c1d549a568dd4dd732b9c26f2db430e66b9d2dd66819320a1beaf9eec15c/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d31312e6a7067"
 classes: wide
 date: 2021-05-25T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-11.jpg">
+<img src="https://camo.githubusercontent.com/4b58c1d549a568dd4dd732b9c26f2db430e66b9d2dd66819320a1beaf9eec15c/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d31312e6a7067">
 
 
 Por la última fecha del grupo E de la Copa Sudamericana, Peñarol va en búsqueda de la tan ansiada clasificación a octavos de final, frente al equipo peruano Sport Huancayo, en el estadio Nacional de Lima mañana a las 21.30 horas.
