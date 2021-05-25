@@ -3,15 +3,16 @@ title: "Gargano y Wallace dieron positivo"
 excerpt: "Luis Suárez y su dedicatoria en los festejos del Atlético Madrid."
 tags:
    - Peñarol
+   - covid-19
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-12.jpg"
+image: "https://camo.githubusercontent.com/57fb0c2c40885458282dbac8ce52e98f66240f0b14db797f771cd32422b51149/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d31322e6a7067"
 classes: wide
 date: 2021-05-25T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-12.jpg">
+<img src="https://camo.githubusercontent.com/57fb0c2c40885458282dbac8ce52e98f66240f0b14db797f771cd32422b51149/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d31322e6a7067">
 
 
 Malas noticias en Peñarol se confirmaron en la noche del lunes. Desde las plataformas oficiales de la institución se informó que los tests PCR realizados en esta jornada arrojaron resultados positivos para Covid-19 en los jugadores Agustín Álvarez Wallace y Walter Gargano (quien estaba suspendido para el partido del miércoles). Los tests de los demás jugadores fueron negativos.
