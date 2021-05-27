@@ -3,15 +3,16 @@ title: "Peñarol: Schiappacasse será operado en Barcelona"
 excerpt: "Nicolás Schiappacasse se rompió los ligamentos cruzados la semana pasada, y hubo un cambio de planes sobre su intervención."
 tags:
    - Peñarol
+   - Schiappacasse
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/03/Schiappacasse-2.jpg"
+image: "https://camo.githubusercontent.com/887e6f975f737ce4912034f0642ae053a06556d7a815a2bf582974068ba28bb9/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30332f536368696170706163617373652d322e6a7067"
 classes: wide
 date: 2021-05-27T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/03/Schiappacasse-2.jpg">
+<img src="https://camo.githubusercontent.com/887e6f975f737ce4912034f0642ae053a06556d7a815a2bf582974068ba28bb9/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30332f536368696170706163617373652d322e6a7067">
 
 
 Hace algunos días, Peñarol confirmó que Nicolás Schiappacasse «sufrió rotura de ligamento cruzado anterior y ligamento lateral externo de rodilla izquierda». El plan original era que esta semana fuera operado por el doctor Daniel Rienzi «para realizarle cirugía reconstructiva con plastia en ambos ligamentos». Sin embargo, hubo cambios.
