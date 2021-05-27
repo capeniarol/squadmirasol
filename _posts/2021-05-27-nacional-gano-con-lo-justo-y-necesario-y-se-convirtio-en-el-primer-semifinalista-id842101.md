@@ -3,15 +3,16 @@ title: "Nacional ganó con lo justo y necesario y se convirtió en el primer sem
 excerpt: "El Tricolor se impuso 73-70 a Defensor Sporting en Villa Biarritz y espera en semifinales al ganador de la serie entre Urunday (1) – (0) Peñarol."
 tags:
    - Peñarol
+   - Liga Uruguaya de Básquetbol
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Basquet-2.jpg"
+image: "https://camo.githubusercontent.com/32fc9d2fa961301292841b3bd18e879180338ea173c6c915452d14dfc3ba287a/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f426173717565742d322e6a7067"
 classes: wide
 date: 2021-05-27T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Basquet-2.jpg">
+<img src="https://camo.githubusercontent.com/32fc9d2fa961301292841b3bd18e879180338ea173c6c915452d14dfc3ba287a/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f426173717565742d322e6a7067">
 
 
 El primer período comenzó con dominio de Defensor Sporting que gracias a la labor defensiva de Erick Flor y la eficacia ofensiva de Josh Boone se fue a la segunda etapa con victoria parcial de 22-15.
