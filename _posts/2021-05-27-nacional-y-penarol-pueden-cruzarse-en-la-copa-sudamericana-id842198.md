@@ -3,15 +3,16 @@ title: "Nacional y Peñarol pueden cruzarse en la Copa Sudamericana"
 excerpt: "Carboneros y tricolores están en los octavos de final de la Copa Sudamericana y en el sorteo estarán en distintos bombos, por lo tanto existe la posibilidad de que tengan que enfrentarse entre sí en dos clásicos eliminatorios."
 tags:
    - Peñarol
+   - Sudamericana 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2020/12/clasico-3.jpg"
+image: "https://camo.githubusercontent.com/bfc5d1a503a6c85e314f1349cbb37d12e6ac68bbeff23e8fd601d42d36381172/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032302f31322f636c617369636f2d332e6a7067"
 classes: wide
 date: 2021-05-27T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2020/12/clasico-3.jpg">
+<img src="https://camo.githubusercontent.com/bfc5d1a503a6c85e314f1349cbb37d12e6ac68bbeff23e8fd601d42d36381172/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032302f31322f636c617369636f2d332e6a7067">
 
 
 Peñarol, como ganador de su grupo en la Copa Sudamericana, y Nacional, como tercero de su grupo en Copa Libertadores, clasificaron para los octavos de final de la Sudamericana y pueden llegar a cruzarse.
