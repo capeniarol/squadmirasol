@@ -3,15 +3,16 @@ title: "A Peñarol le alcanzó con un empate para meterse entre los 16 finalista
 excerpt: "El Carbonero igualó 0-0 ante Sport Huancayo y quedó 1° con 13 puntos, contra 10 de Corinthians (que goleó 4-0 a River) y 10 del River paraguayo."
 tags:
    - Peñarol
+   - Sudamericana 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-13.jpg"
+image: "https://camo.githubusercontent.com/04a36a56ff4abb5eb84e11d2e5425c4311ce5249c4785e06a7d88446d484f487/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d31332e6a7067"
 classes: wide
 date: 2021-05-27T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-13.jpg">
+<img src="https://camo.githubusercontent.com/04a36a56ff4abb5eb84e11d2e5425c4311ce5249c4785e06a7d88446d484f487/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d31332e6a7067">
 
 
 Peñarol consiguió en Lima el punto que le faltaba para ganar su grupo y clasificarse a los octavos de final de la Copa Sudamericana, aunque hasta con una derrota igual se hubiese clasificado ya que River Plate de Asunción que era el único que podía desplazarlo del primer puesto, sufrió una goleada de 4-0 en su visita al Corinthians.
