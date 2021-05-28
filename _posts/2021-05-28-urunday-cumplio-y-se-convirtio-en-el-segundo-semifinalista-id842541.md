@@ -3,15 +3,16 @@ title: "Urunday cumplió y se convirtió en el segundo semifinalista"
 excerpt: "El estudioso se impuso 87-81 a Peñarol en Villa Biarritz y se verá las caras con Nacional en semifinales."
 tags:
    - Peñarol
+   - Liga Uruguaya de Básquetbol
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Urunday.jpg"
+image: "https://camo.githubusercontent.com/a33aea4ed95359f6e009ca0497a397ef2e50f5e7ab67ee59cd04b4837e26cf30/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f5572756e6461792e6a7067"
 classes: wide
 date: 2021-05-28T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Urunday.jpg">
+<img src="https://camo.githubusercontent.com/a33aea4ed95359f6e009ca0497a397ef2e50f5e7ab67ee59cd04b4837e26cf30/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f5572756e6461792e6a7067">
 
 
 El primer período fue muy parejo, tanto así que terminó con victoria de Peñarol por tan solo 1 punto, 19-18. Urunday tuvo nuevamente mucha eficacia ofensiva por parte de Facundo Medina y Gastón Silvarrey desde la línea de los 6,75 metros, mientras que el equipo de Edgardo Kogan tuvo una etapa formidable de Nicolás Mazzarino, aportando puntos y asistencias en momentos claves.
