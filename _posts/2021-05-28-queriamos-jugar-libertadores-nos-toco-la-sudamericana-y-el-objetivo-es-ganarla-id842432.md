@@ -5,13 +5,13 @@ tags:
    - Peñarol
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Agustin-Alvarez-Martinez.jpg"
+image: "https://camo.githubusercontent.com/186ad6f03d137c4df1fe8ab2feb62c7228480e74f0f3434fc0d8b37649be3316/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f4167757374696e2d416c766172657a2d4d617274696e657a2e6a7067"
 classes: wide
 date: 2021-05-28T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Agustin-Alvarez-Martinez.jpg">
+<img src="https://camo.githubusercontent.com/186ad6f03d137c4df1fe8ab2feb62c7228480e74f0f3434fc0d8b37649be3316/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f4167757374696e2d416c766172657a2d4d617274696e657a2e6a7067">
 
 
 Con su cupo ya asegurado entre los 16 finalistas de la Copa Sudamericana, Peñarol tendrá ahora un buen tiempo para dedicarse al Torneo Apertura ya que la actividad internacional se reiniciará recién después de disputada la Copa América.
