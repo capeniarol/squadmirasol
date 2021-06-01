@@ -3,15 +3,16 @@ title: "¿Quién será el rival de Peñarol en la Copa? Salvo Santos, no hay bra
 excerpt: "Dos colombianos, dos ecuatorianos, un peruano, un venezolano, el brasileño Santos y Nacional son los posibles rivales para el Carbonero."
 tags:
    - Peñarol
+   - Sudamericana 2021
 categories:
    - Noticias
-image: "https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-13.jpg"
+image: "https://camo.githubusercontent.com/04a36a56ff4abb5eb84e11d2e5425c4311ce5249c4785e06a7d88446d484f487/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d31332e6a7067"
 classes: wide
 date: 2021-06-01T00:00:00+2:00
 ---
 
 
-<img src="https://www.republica.com.uy/wp-content/uploads/2021/05/Penarol-13.jpg">
+<img src="https://camo.githubusercontent.com/04a36a56ff4abb5eb84e11d2e5425c4311ce5249c4785e06a7d88446d484f487/68747470733a2f2f7777772e72657075626c6963612e636f6d2e75792f77702d636f6e74656e742f75706c6f6164732f323032312f30352f50656e61726f6c2d31332e6a7067">
 
 
 Pasado el mediodía de este martes se realizará el sorteo de octavos de final de la Copa Sudamericana.
